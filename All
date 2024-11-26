@@ -1,0 +1,504 @@
+[2024-11-24 02:53:46] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:46] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:46] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:46] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:46] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:46] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:46] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:46] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 172.64.155.209
+Source Port: 53046
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:46] 
+[TCP Packet Captured]
+Source IP: 172.64.155.209
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53046
+Flags: A
+
+[2024-11-24 02:53:46] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 172.64.155.209
+Source Port: 53045
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:46] 
+[TCP Packet Captured]
+Source IP: 172.64.155.209
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53045
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 35.186.224.40
+Source Port: 53002
+Destination Port: 443
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 35.186.224.40
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53002
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 35.186.224.45
+Source Port: 53005
+Destination Port: 443
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 35.186.224.45
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53005
+Flags: A
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 35.186.224.45
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53005
+Flags: PA
+
+[2024-11-24 02:53:47] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 35.186.224.45
+Source Port: 53005
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:48] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:48] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:48] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:48] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:48] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:48] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:48] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
+[2024-11-24 02:53:48] 
+[TCP Packet Captured]
+Source IP: 162.159.134.234
+Destination IP: 192.168.1.20
+Source Port: 443
+Destination Port: 53006
+Flags: PA
+
+[2024-11-24 02:53:48] 
+[TCP Packet Captured]
+Source IP: 192.168.1.20
+Destination IP: 162.159.134.234
+Source Port: 53006
+Destination Port: 443
+Flags: A
+
